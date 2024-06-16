@@ -1,0 +1,16 @@
+
+.table {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    margin-left: 10%;
+}
+
+
+
+.aboutpage h1 {
+ 
+    color: blue;
+    text-align: center;
+    padding: 5px;
+}
